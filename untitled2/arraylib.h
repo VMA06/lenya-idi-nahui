@@ -1,0 +1,11 @@
+int arrIn(int arrLength);
+int arrOut(int arrLength, int array[]);
+int getMin(int arr[], int n);
+int getMax(int arr[], int n);
+int sortArr(int arr[], int n);
+int biggerOut(int arr[], int i, int n);
+int excludeMinus(int arr[] , int n);
+int sumArr(int arr[] , int n);
+int multiplyArr(int arr[] , int n);
+bool isPrime(int n);
+int onlyPrimeArr(int arr[], int n);
